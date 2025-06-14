@@ -1,0 +1,29 @@
+{
+  "name": "@laloohflorescruz/clase4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laloohflorescruz/clase4.git"
+  },
+  "keywords": [],
+  "author": "Eduardo Flores",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/laloohflorescruz/clase4/issues"
+  },
+  "homepage": "https://github.com/laloohflorescruz/clase4#readme",
+  "description": "Funciones demo de estadisticas para graficos",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "chart.js": "^4.4.9",
+    "chartjs-node-canvas": "^5.0.0"
+  }
+}
